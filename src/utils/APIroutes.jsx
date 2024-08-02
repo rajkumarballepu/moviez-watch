@@ -1,3 +1,3 @@
-const host = "http://localhost:3000"
+const host = "https://movie-server-zcke.onrender.com"
 
 export const allMovies = `${host}/api/auth/all`
