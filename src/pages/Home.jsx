@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import axios from 'axios';
+import axios from 'redaxios';
 import { allMovies } from "../utils/APIroutes";
 import { useCookies } from 'react-cookie';
 import MovieCard from '../components/Movie/MovieCard';
